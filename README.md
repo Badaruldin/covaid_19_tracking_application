@@ -1,6 +1,6 @@
 # covaid_19_tracking_app
 
-A new Flutter project.
+It's a covaid tracking app which shows all covaid states around the world and country wise states.
 
 ## Getting Started
 
